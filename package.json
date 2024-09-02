@@ -1,4 +1,5 @@
 {
+  "$schema": "./schemas/test-schema.json",
   "name": "chat-app-yt",
   "version": "1.0.0",
   "main": "server.js",
